@@ -7,7 +7,6 @@ import customtkinter as ctk
 import tkinter.messagebox as tmsg
 import pyperclip
 from cryptography.fernet import Fernet
-import tkinter.filedialog, platform, ctypes, packaging, tkinter.font, ctypes.wintypes, tkinter.ttk
 
 # Set appearance mode to dark and default color theme to dark-blue
 ctk.set_appearance_mode("dark")
